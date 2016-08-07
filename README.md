@@ -2,7 +2,7 @@
 
 **Steps to test example manually**
 
-![WebSocket based Microservice Architecure](images/2.png)
+![WebSocket based Microservice Architecure](images/2.jpg)
 
 - Open 3 terminals
 - Execute `sbt "project api" run` from first terminal.
